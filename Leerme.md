@@ -1,1 +1,0 @@
-# El archivo rar contiene 4 carpetas; La primera con la base de datos, la segunda con una carpeta de facturas que es donde se agregan las facturas hechas con el programa, la tercera es en donde esta el programa el cual fue hecho con el lenguaje C# en la aplicacion de Visual Studio 2022 y la ultima son archivos multimedias utilizados para el programa en cuestion.
